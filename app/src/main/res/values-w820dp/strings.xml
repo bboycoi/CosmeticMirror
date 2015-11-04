@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Cosmetic Mirror</string>
+    <string name="button_capture">Capture</string>
+    <string name="button_share">Share</string>
+    <string name="admob_banner"></string>
+    <string name="admob_interstitial"></string>
+
+</resources>
